@@ -1,0 +1,23 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JX-Zhuang/Node-.git"
+  },
+  "author": "JX-Zhuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JX-Zhuang/Node-/issues"
+  },
+  "homepage": "https://github.com/JX-Zhuang/Node-#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
